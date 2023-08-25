@@ -8,6 +8,10 @@ edition = "2021"
 name = "20230815"
 path = "src/20230815/main.rs"
 
+[[bin]]
+name = "20230825"
+path = "src/20230825/main.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
